@@ -49,7 +49,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Add headers</h2></summary>
 
 _Welcome to "Communicate using Markdown"! :wave:_
