@@ -97,7 +97,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
   Define terms and link to docs.github.com.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Add an image</h2></summary>
 
 _Great job adding headers to the file :sparkles:_
